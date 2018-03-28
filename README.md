@@ -48,3 +48,12 @@ To run this skill you need to do two things. The first is to deploy the example 
     Alexa: "At 9:15 ...., at 8:40 ...., at .... "
     User: "Thank you jason"
     Alexa: "xxxxx"
+
+## Enhancement
+  We can easily read the configs from the website to know the high and low figures.
+  We can also fetch the name of the user to make this skill much more personal.
+  Like, hi Oliver you can doing well today, you sugar level is normal. 
+  Another thing is to use the latest available feature from Amazon to level notifications.
+  So you can ask 'what are my notifications' to find out warnings. 
+  
+  
