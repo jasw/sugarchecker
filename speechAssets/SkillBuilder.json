@@ -1,0 +1,65 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "sugar checker",
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "OneshotIntent",
+          "slots": [
+            {
+              "name": "Number",
+              "type": "AMAZON.NUMBER"
+            }
+          ],
+          "samples": [
+            "last {Number} sugar levels",
+            "current sugar level",
+            "check now",
+            "last {Number} please",
+            "last {Number} ",
+            "check last {Number}",
+            "check last {Number} records",
+            "sugar level please",
+            "sugar level now",
+            "sugar level",
+            "check level now",
+            "check sugar level now",
+            "check sugar level",
+            "check sugar"
+          ]
+        },
+        {
+          "name": "EasterEggIntent",
+          "slots": [],
+          "samples": [
+            "thank you jason"
+          ]
+        },
+        {
+          "name": "ByeIntent",
+          "slots": [],
+          "samples": [
+            "see ya",
+            "see you",
+            "good bye",
+            "bye bye",
+            "bye"
+          ]
+        }
+      ],
+      "types": []
+    }
+  }
+}
