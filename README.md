@@ -1,4 +1,7 @@
 # Sugar Checker Idea
+
+[![Join the chat at https://gitter.im/sugarchecker/community](https://badges.gitter.im/sugarchecker/community.svg)](https://gitter.im/sugarchecker/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 To provide another way of monitoring sugar levels for our diabetes patients.
 This project builds a Alexa Skills with trigger name 'Sugar Checker'. This skill talks to AWS Lambda function which in turn fetch data off a remote API for the sugar level etc.
 
